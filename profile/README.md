@@ -18,10 +18,10 @@ You see this avatar, you know i like dog.
 
 
 
-This is my work in 2022:
+This is my cat on the refrigerator:
 
-<img src="assets/Inked分解比较.jpg" width="30%" />
+<img src="assets/IMG_7615.HEIC" width="30%" />
 
-<img src="assets/vmd分解的副本.jpg" width="30%" />
+<img src="assets/IMG_7613.HEIC" width="30%" />
 
 
