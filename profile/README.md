@@ -14,8 +14,9 @@
 
 Hi, this is me.
 
-You see this avatar, you know i like dog.
-
+🤡🤡🤡
+🐶🐶🐶
+🐱🐱🐱
 
 
 This is my cat on the refrigerator:
