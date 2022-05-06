@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi bro 👋
 
 <!--
 
@@ -10,8 +10,16 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
 Hi, this is me.
 
-This is me in 2022.
+You see this avatar, you know i like dog.
+
+
+
+This is my work in 2022:
+
+
 
 
