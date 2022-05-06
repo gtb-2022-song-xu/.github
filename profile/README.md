@@ -20,8 +20,8 @@ You see this avatar, you know i like dog.
 
 This is my cat on the refrigerator:
 
-<img src="assets/IMG_7615.HEIC" width="30%" />
+<img src="assets/IMG_7615.jpg" width="30%" />
 
-<img src="assets/IMG_7613.HEIC" width="30%" />
+<img src="assets/IMG_7613.jpg" width="30%" />
 
 
