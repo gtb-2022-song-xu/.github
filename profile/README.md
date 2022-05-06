@@ -20,6 +20,8 @@ You see this avatar, you know i like dog.
 
 This is my work in 2022:
 
+<img src="assets/Inked分解比较.jpg" width="30%" />
 
+<img src="assets/vmd分解的副本.jpg" width="30%" />
 
 
